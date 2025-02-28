@@ -32,5 +32,5 @@
   </a>
 </p>
 
-  <img src="https://fr.pinterest.com/pin/437201076340577807/" />
+
 
