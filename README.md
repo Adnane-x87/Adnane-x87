@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋! My name is Adnane Keskus</h1>
-<h3 align="center">I am a Full Stack Developer.</h3>
+<h3 align="center"> 👨‍💻 I am a Full Stack Developer.</h3>
 
 ## 🔥 GitHub Stats  
 ![Adnane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adnane-x87&show_icons=true&theme=dark)
@@ -32,5 +32,5 @@
   </a>
 </p>
 
-### 🐍 Contribution Snake  
-![Snake animation](https://github.com/Adnane-x87/Adnane-x87/blob/output/github-contribution-grid-snake.svg)
+![Contribution Graph with Stars Falling Animation](https://github.com/Platane/snk/blob/output/github-contribution-grid-starry-animation.svg)
+
