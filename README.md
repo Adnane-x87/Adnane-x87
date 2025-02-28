@@ -32,5 +32,6 @@
   </a>
 </p>
 
-![Contribution Graph with Stars Falling Animation](https://github.com/Platane/snk/blob/output/github-contribution-grid-starry-animation.svg)
+![GitHub Snake Animation](https://github.com/Adnane-x87/Adnane-x87/blob/output/github-contribution-grid-snake.svg)
+
 
