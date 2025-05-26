@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋! My name is Adnane </h1>
-<h3 align="center"> 👨‍💻 I am a Full Stack Developer.</h3>
+<h3 align="center"> 👨‍💻 I am a web Developer.</h3>
 
 ## 🔥 GitHub Stats  
 ![Adnane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adnane-x87&show_icons=true&theme=dark)
