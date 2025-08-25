@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋! My name is Adnane </h1>
- <img src="![Uploading image.png…]()
 " width="80" />
 <h3 align="center"> 👨‍💻 I am a web Developer.</h3>
 
