@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋! My name is Adnane </h1>
 <h3 align="center"> 👨‍💻 I am a web Developer.</h3>
+<h4 align="center"> 🌱 I’m currently learning laravel</h4>
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Adnane-x87&color=blue)
+
 
 ## 🔥 GitHub Stats  
 ![Adnane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adnane-x87&show_icons=true&theme=dark)
