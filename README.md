@@ -7,7 +7,7 @@
 
 
 ## 🔥 GitHub Stats  
-![Adnane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adnane-x87&show_icons=true&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adnane-x87&theme=dark&hide_border=true)
 
 ### 🚀 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adnane-x87&layout=compact&theme=dracula&langs_count=6)
