@@ -69,4 +69,4 @@
   <i>⭐️ From <a href="https://github.com/Adnane-x87">Adnane-x87</a></i>
 </p><br>
 
-https://raw.githubusercontent.com/Adnane-x87/Adnane-x87/output/github-snake.svg
+![Snake animation](https://raw.githubusercontent.com/Adnane-x87/Adnane-x87/output/github-snake.svg)
