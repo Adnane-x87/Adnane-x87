@@ -10,18 +10,26 @@
 
 ## 🔥 GitHub Stats
 
+<!-- GitHub Streak -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Adnane-x87&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Adnane-x87&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Adnane-x87&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=Adnane-x87&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 ## 🚀 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Adnane-x87&layout=compact&theme=dracula&langs_count=8&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Adnane-x87&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+## 💻 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adnane-x87&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 ## 🛠️ Technologies & Tools
