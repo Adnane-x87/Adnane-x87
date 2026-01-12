@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋! My name is Adnane</h1>
 <h3 align="center">👨‍💻 I am a web Developer.</h3>
-<h4 align="center">🌱 I'm currently learning Laravel</h4>
+<h4 align="center">🌱 I'm currently learning Laravel & React</h4>
 
 <br>
 
