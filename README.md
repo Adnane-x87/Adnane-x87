@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋! My name is Adnane</h1>
-<h3 align="center">👨‍💻 I am a web Developer.</h3>
-<h4 align="center">🌱 I'm currently learning Laravel & React</h4>
 
-<br>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=435&lines=👨‍💻+I+am+a+web+Developer." alt="Typing SVG" />
+</p>
+
+<h4 align="center">🌱 I'm currently learning Laravel & React</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Adnane-x87&color=blue" alt="Profile Views" />
