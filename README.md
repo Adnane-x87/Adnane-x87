@@ -1,8 +1,27 @@
-<h1 align="center">Hi 👋! My name is Adnane</h1>
-
-<<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋!%20My%20name%20is%20Adnane&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Welcome%20to%20my%20profile!&descAlignY=55&descSize=20" />
-</p>>
+<p align="center">
+  <svg width="600" height="80" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <style>
+        .glitch {
+          font: bold 36px 'Courier New', monospace;
+          fill: #fff;
+          animation: glitch 2s infinite;
+        }
+        @keyframes glitch {
+          0%   { filter: none; transform: translate(0); }
+          20%  { filter: drop-shadow(-2px 0 #ff00c1) drop-shadow(2px 0 #00fff9); transform: translate(-2px, 1px); }
+          40%  { filter: drop-shadow(2px 0 #ff00c1) drop-shadow(-2px 0 #00fff9); transform: translate(2px, -1px); }
+          60%  { filter: none; transform: translate(0); }
+          80%  { filter: drop-shadow(-1px 0 #ff00c1) drop-shadow(1px 0 #00fff9); transform: translate(1px, 1px); }
+          100% { filter: none; transform: translate(0); }
+        }
+      </style>
+    </defs>
+    <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" class="glitch">
+      Hi 👋! My name is Adnane
+    </text>
+  </svg>
+</p>
 
 <h4 align="center">🌱 I'm currently learning Laravel & React</h4>
 
