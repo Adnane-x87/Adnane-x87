@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋! My name is Adnane</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=435&lines=👨‍💻+I+am+a+web+Developer." alt="Typing SVG" />
-</p>
+<<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋!%20My%20name%20is%20Adnane&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Welcome%20to%20my%20profile!&descAlignY=55&descSize=20" />
+</p>>
 
 <h4 align="center">🌱 I'm currently learning Laravel & React</h4>
 
