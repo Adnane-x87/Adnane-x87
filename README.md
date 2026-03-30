@@ -1,6 +1,6 @@
 <p align="center">
   <img src="./.github/glitch.svg" alt="Glitch Header" />
-</p>>
+</p>
 
 ## 🔥 GitHub Stats
 
